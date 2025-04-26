@@ -8,6 +8,9 @@ import re
 import os
 import multiprocessing
 import scipy
+from dotenv import load_dotenv
+
+load_dotenv()
 
 save_path = './'
 
@@ -35,14 +38,14 @@ def get_multiple_completion(dialogs, num_cpus=15, temperature=0, max_tokens=100)
 
 def get_completion(dialogs, temperature=0, max_tokens=100):
     import openai
-    openai.api_key = 'Your Key'
+    openai.api_key = os.getenv('OPENAI_API_KEY')
     import time
     
     max_retries = 20
     for i in range(max_retries):
         try:
             response = openai.ChatCompletion.create(
-                model="gpt-3.5-turbo-0613", # inaccessible now, try gpt-4o-mini
+                model="gpt-4o-mini",
                 messages=dialogs,
                 temperature=temperature,
                 max_tokens=max_tokens
