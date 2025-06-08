@@ -1,0 +1,44 @@
+OECD_IOT_Code,OECD_IOT_Name,OECD_IOT_HFCE,OECD_IOT_HFCE_top35,CE_Consumption_Category_primary
+TTL_A01_02,"Agriculture, hunting, forestry",5601.5,1,Food
+TTL_A03,Fishing and aquaculture,514.2,0,
+TTL_B05_06,"Mining and quarrying, energy producing products",67.4,0,
+TTL_B07_08,"Mining and quarrying, non-energy producing products",53.4,0,
+TTL_B09,Mining support service activities,0.4,0,
+TTL_C10T12,"Food products, beverages and tobacco",18899,1,Food
+TTL_C13T15,"Textiles, textile products, leather and footwear",4280.1,1,Apparel and services
+TTL_C16,Wood and products of wood and cork,181.6,0,
+TTL_C17_18,Paper products and printing,1211.6,0,
+TTL_C19,Coke and refined petroleum products,3793.2,1,Transportation
+TTL_C20,Chemical and chemical products,1862.3,0,
+TTL_C21,"Pharmaceuticals, medicinal chemical and botanical products",1386.5,0,
+TTL_C22,Rubber and plastics products,1269.4,0,
+TTL_C23,Other non-metallic mineral products,377.2,0,
+TTL_C24,Basic metals,51.5,0,
+TTL_C25,Fabricated metal products,629.5,0,
+TTL_C26,"Computer, electronic and optical equipment",1458,0,
+TTL_C27,Electrical equipment,1225,0,
+TTL_C28,"Machinery and equipment, nec ",332.1,0,
+TTL_C29,"Motor vehicles, trailers and semi-trailers",5218.5,1,Transportation
+TTL_C30,Other transport equipment,405.5,0,
+TTL_C31T33,Manufacturing nec; repair and installation of machinery and equipment,1647.4,0,
+TTL_D,"Electricity, gas, steam and air conditioning supply",5163.6,1,Housing
+TTL_E,"Water supply; sewerage, waste management and remediation activities",2041,0,
+TTL_F,Construction,349.1,0,
+TTL_G,Wholesale and retail trade; repair of motor vehicles,16609.2,1,Transportation
+TTL_H49,Land transport and transport via pipelines,5424.6,1,Transportation
+TTL_H50,Water transport,734.6,0,
+TTL_H51,Air transport,2197.2,0,
+TTL_H52,Warehousing and support activities for transportation,446.8,0,
+TTL_H53,Postal and courier activities,198.6,0,
+TTL_I,Accommodation and food service activities,6269.5,1,Food
+TTL_J58T60,"Publishing, audiovisual and broadcasting activities",1825.6,0,
+TTL_J61,Telecommunications,6622.2,1,Housing
+TTL_J62_63,IT and other information services,973.4,0,
+TTL_K,Financial and insurance activities,18157.6,1,Cash contributions
+TTL_L,Real estate activities,21590.1,1,Housing
+TTL_M,"Professional, scientific and technical activities",3217.3,0,
+TTL_N,Administrative and support services,1461.1,0,
+TTL_O,Public administration and defence; compulsory social security,832.5,0,
+TTL_P,Education,7104,1,Education
+TTL_Q,Human health and social work activities,11791.1,1,Healthcare
+TTL_R,"Arts, entertainment and recreation",3496.3,1,Entertainment
